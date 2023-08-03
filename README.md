@@ -1,12 +1,11 @@
 # num_game
 
-A new Flutter project.
+A flutter project based on mathematcal quiz.
 
 ## Getting Started
 
 Assalam Alikum everyone.
 Welcome to my project. This project is based on mathimetical quiz where user selects sum of two numbers from the given numbers.
-
 Request for guidence: I am in learning stage if you find something in my code that needs to be improved, it will be highly appreciated & feel free to guide me.
 
 A few resources to get you started if this is your first Flutter project:
